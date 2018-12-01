@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "292628074028",
+    "firebase_url": "https://calderonexam.firebaseio.com",
+    "project_id": "calderonexam",
+    "storage_bucket": "calderonexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292628074028:android:e6b8624aa736d3b9",
+        "android_client_info": {
+          "package_name": "janella.calderon.com.calderon_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292628074028-r7eh53umn453rmri6m147jqdecjbtv9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "janella.calderon.com.calderon_exam",
+            "certificate_hash": "b86e62d67b1e617842a3be9e7abd06ed1ff1fc8c"
+          }
+        },
+        {
+          "client_id": "292628074028-3h2on2evq27bgb1du6g8hu2v8055ea43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmX9zJJu_ZO0lyx6y5rjxTyt5rW1gHNvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292628074028-3h2on2evq27bgb1du6g8hu2v8055ea43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
