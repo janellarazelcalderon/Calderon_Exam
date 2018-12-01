@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         Student sgrade = new Student(fname,lname,average);
         String key = root.push().getKey();
         root.child(key).setValue(sgrade);
-        Toast.makeText(this,"record added to db",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"Added to database!",Toast.LENGTH_LONG).show();
         display.setText("Your Average is:" + average);
 
 
